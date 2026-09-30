@@ -1,4 +1,4 @@
-# AWDP 2025-2026
+# AWDP 2026-2027
 
 ![Banner](baner_pg.png)
 
@@ -8,7 +8,7 @@
 ![FERS](img/logo/fers2.png)
 ---
 
-Analiza i wizualizacja danych w Pythonie - kurs realizowany w ramach projektu PGEdu+ 2025-2026
+Analiza i wizualizacja danych w Pythonie - kurs realizowany w ramach projektu PGEdu+
 
 ---
 
